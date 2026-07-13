@@ -1,0 +1,8 @@
+users
+categories
+transactions
+budgets
+financial_goals
+ai_insights
+predictions
+notifications
