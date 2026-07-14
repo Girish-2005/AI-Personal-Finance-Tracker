@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+# Virtual Environment
+backend/.venv/
+.venv/
+venv/
+
+# Python
 __pycache__/
 *.py[codz]
 *$py.class
